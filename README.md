@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akshatha-Shenoy
 - 👀 I’m interested in formal verification.
-- 🌱 I’m currently working at TCS Research, Pune
+- 🌱 I’m currently a PhD student at USI, Lugano, Switzerland
 - 📫 Reach me at akshathabshenoy at gmail dot com
 
 <!---
